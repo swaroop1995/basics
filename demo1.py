@@ -1,0 +1,2 @@
+import sample
+print(a)
